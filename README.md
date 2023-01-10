@@ -12,7 +12,7 @@ Your Link Here
 # soal
 ![img](gambar/soal.png)
 
-# Penjelsan
+# Penjelasan
 
 # Daftar_Nilai
 - data = {} untuk menampung list data yang nanti akan terinput
@@ -97,7 +97,7 @@ Your Link Here
 # Maka OUTPUT yg didaptkan adalah
 
 # HURUF T
-![img](gambar/t.jpg.jpg)
+![img](gambar/t.jpg.)
 
 # HURUF C 
 ![img](gambar/c.jpg)
