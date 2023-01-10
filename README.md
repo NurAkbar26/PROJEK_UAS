@@ -111,4 +111,4 @@ Your Link Here
 # HURUF H
 ![img](gambar/h.jpg)
 
-Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih.
+Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih!.
