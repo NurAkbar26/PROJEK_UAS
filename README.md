@@ -9,7 +9,7 @@ Your Link Here
 # Tugas membuat Package and Modul
 # Tugas yang diberikan memiliki soal sebagai berikut
 
-# soal
+# soal UAS PEMOGRAMAN
 ![img](gambar/soal.png)
 
 # Penjelasan
